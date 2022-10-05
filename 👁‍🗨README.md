@@ -1,9 +1,5 @@
 ### 👁‍🗨 om wifi 👁‍🗨
 
-Подскажите, почему не работает?
-
-```cat "test... test... test..." | perl -e '$??s:;s:s;;$?::s;;=]=>%-{<-|}<&|`{;;y; -/:-@[-`{-};`-{/" -;;s;;$_;see'```
-
 <!--
 **lostcommit/lostcommit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
